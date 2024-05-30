@@ -1,7 +1,5 @@
 # Polar Function Graphing
 
-## Repository: polar-function-graphing
-
 ### Description
 This project, completed as part of the coursework at the Benemérita Universidad Autónoma de Puebla, focuses on graphing a polar function using OpenGL in the Code::Blocks IDE. The aim is to visualize a polar function, specifically a Rose Curve, and explore variations in shape and color.
 
@@ -97,4 +95,6 @@ int main(int argc, char** argv) {
 
 The project initializes a graphical window and plots a Rose Curve with a rainbow color effect. The transition of colors is smooth, providing a visual representation of the mathematical function in a creative manner.
 
-![image](https://github.com/KPlanisphere/binary-tree-operations/assets/60454942/9c05945b-f26a-4c6c-a1ae-c9c88b13f6f9)
+<div style="text-align: center;">
+    <img src="https://github.com/KPlanisphere/binary-tree-operations/assets/60454942/9c05945b-f26a-4c6c-a1ae-c9c88b13f6f9" alt="image" style="width: 300px; height: auto;">
+</div>
