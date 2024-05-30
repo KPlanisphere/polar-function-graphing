@@ -95,6 +95,6 @@ int main(int argc, char** argv) {
 
 The project initializes a graphical window and plots a Rose Curve with a rainbow color effect. The transition of colors is smooth, providing a visual representation of the mathematical function in a creative manner.
 
-<div style="text-align: center;">
-    <img src="https://github.com/KPlanisphere/binary-tree-operations/assets/60454942/9c05945b-f26a-4c6c-a1ae-c9c88b13f6f9" alt="image" style="width: 300px; height: auto;">
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/KPlanisphere/binary-tree-operations/assets/60454942/9c05945b-f26a-4c6c-a1ae-c9c88b13f6f9" alt="image" style="width: 50%; height: auto;">
 </div>
